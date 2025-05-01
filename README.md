@@ -3,7 +3,7 @@
 
 A web-based NLP application that allows users to ask questions and get precise answers from a given context using a BERT model trained on the SQuAD dataset. Built with **Streamlit**, **PyTorch**, and **Transformers**, this system leverages the `bert-large-uncased-whole-word-masking-finetuned-squad` model to perform extractive question answering.
 
-![QA UI](./b6e26163-6163-471b-ba68-f5bb59cbb137.png)
+![QA UI](./Frontend.png)
 
 ---
 
